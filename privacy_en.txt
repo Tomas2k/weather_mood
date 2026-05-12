@@ -1,0 +1,133 @@
+# Weather Mood - Privacy Policy
+
+Last Updated: May 12, 2026
+
+## 1. Introduction
+
+Welcome to Weather Mood.
+
+We respect your privacy and are committed to protecting your information. This Privacy Policy explains how information may be collected, used, and stored when you use the Weather Mood mobile application.
+
+By using the application, you agree to the practices described in this Privacy Policy.
+
+---
+
+## 2. Information Collection and Use
+
+To provide weather services, AI character experiences, saved settings, and app functionality, we may collect the following information:
+
+### Location Information
+
+The app may access your device location to provide local weather forecasts and related weather information.
+
+Location access is optional, but some features may not function correctly if permission is denied.
+
+### User Identifiers
+
+We may collect anonymous identifiers, device identifiers, or Firebase-generated identifiers to:
+
+* save app preferences,
+* manage unlocked characters,
+* store saved cities,
+* support anonymous login,
+* and maintain app functionality across sessions.
+
+### Device Information
+
+We may collect non-identifiable device information such as:
+
+* device model,
+* operating system version,
+* app version,
+* crash logs,
+* and performance data
+
+to improve application stability and user experience.
+
+### Advertising ID
+
+The app may use the Google Advertising ID for advertising, analytics, and AdMob services.
+
+### Purchase Information
+
+If you make in-app purchases, purchase-related information may be processed through Google Play services in order to validate and restore purchased content.
+
+We do not directly collect or store your payment card information.
+
+---
+
+## 3. AI-Generated Content (Grok AI)
+
+### AI Character Content
+
+Virtual characters, animations, videos, voices, portraits, and visual content within the app are generated using Grok AI or AI-assisted tools.
+
+### Fictional Content
+
+All AI-generated characters are fictional and do not represent real individuals.
+
+Any resemblance to actual persons is purely coincidental.
+
+### Ownership
+
+All AI-generated content within the application is created or licensed by the developer.
+
+### Compliance
+
+We strive to ensure that all AI-generated content complies with applicable platform policies and content guidelines.
+
+AI-generated content in this application is created using Grok AI or AI-assisted tools.
+
+Although the developer reviews and manages the content, AI-generated media may contain unexpected or imperfect results.
+
+If you believe any content is inappropriate, infringing, or problematic, please contact us and we will review it.
+
+---
+
+## 4. Data Storage and Security
+
+We take reasonable measures to protect your information and improve application security.
+
+Data may be transmitted using secure encrypted connections where supported.
+
+However, no method of electronic storage or transmission over the internet is completely secure, and we cannot guarantee absolute security.
+
+---
+
+## 5. Data Deletion
+
+Users may request deletion of their associated app data by contacting us via email.
+
+Because some features use anonymous authentication and local device storage, uninstalling the application or clearing app data may also permanently remove locally stored information.
+
+---
+
+## 6. Third-Party Services
+
+The application may use third-party services that may collect information according to their own privacy policies, including but not limited to:
+
+* Google Play Services
+* Firebase (Google)
+* Google AdMob
+* Weather API providers
+
+These services may collect technical, analytics, advertising, or device-related information.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+Any updates will be reflected by revising the "Last Updated" date above.
+
+Continued use of the application after changes constitutes acceptance of the updated policy.
+
+---
+
+## 8. Contact Us
+
+If you have questions regarding this Privacy Policy or data deletion requests, please contact:
+
+
+Email: [teamtaiwanwinwin@gmail.com](mailto:teamtaiwanwinwin@gmail.com)
