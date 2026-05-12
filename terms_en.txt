@@ -1,0 +1,193 @@
+# Weather Mood - Terms of Service
+
+Last Updated: May 12, 2026
+
+## 1. Acceptance of Terms
+
+By downloading, installing, or using Weather Mood, you agree to these Terms of Service.
+If you do not agree to these Terms, please do not use the application.
+
+---
+
+## 2. Application Purpose
+
+Weather Mood is an entertainment and weather information application that combines weather forecasts with AI-generated virtual characters, animations, and multimedia experiences.
+
+The application is provided for personal and non-commercial use only.
+
+---
+
+## 3. Weather Information Disclaimer
+
+Weather data displayed in the app is provided by third-party weather service providers.
+
+We do not guarantee that:
+
+* weather information is always accurate,
+* forecasts are complete,
+* weather alerts are timely,
+* or services are continuously available.
+
+Users should not rely solely on the application for safety-critical decisions, emergencies, travel planning, outdoor activities, or disaster response.
+
+Users should independently verify important weather information through official weather authorities when necessary.
+
+---
+
+## 4. AI-Generated Characters and Media
+
+All virtual characters, animations, videos, voices, portraits, and visual content within the app are generated using Grok AI or AI-assisted tools.
+
+### Fictional Characters
+
+All characters appearing in the app are fictional AI-generated characters and do not represent real persons.
+
+Any resemblance to actual persons is purely coincidental.
+
+### Content Disclaimer
+
+Although the developer reviews and manages the content provided within the application, AI-generated media may contain unexpected, inaccurate, or imperfect results.
+
+If you believe any content is inappropriate, infringing, or problematic, please contact us and we will review the content.
+
+### Intellectual Property
+
+All AI-generated media and in-app assets are owned by or licensed to the developer.
+
+### Restrictions
+
+You may not:
+
+* extract app assets,
+* redistribute videos or media,
+* resell content,
+* use content for commercial purposes,
+* or reverse engineer the application.
+
+
+---
+
+## 5. Location Services
+
+The app may request location access in order to provide local weather forecasts.
+
+Location usage is limited to weather-related functionality.
+
+If location permission is denied:
+
+* some features may not function correctly,
+* and weather results may be less accurate.
+
+---
+
+## 6. Anonymous Login and Local Data
+
+The application may use anonymous authentication and local device storage.
+
+Because anonymous accounts are device-based:
+
+* uninstalling the app,
+* clearing app data,
+* changing devices,
+* or resetting the device
+
+may permanently result in loss of:
+
+* saved cities,
+* unlocked characters,
+* settings,
+* preferences,
+* or other app-related data.
+
+The developer is not responsible for such data loss.
+
+---
+
+## 7. In-App Purchases and Virtual Content
+
+The app may offer premium characters, virtual content, or other digital purchases through Google Play.
+
+### No Monetary Value
+
+Virtual items and unlocks:
+
+* have no real-world monetary value,
+* cannot be exchanged for cash,
+* and are non-transferable.
+
+### Refunds
+
+All purchases are processed by Google Play and are subject to Google Play policies.
+
+Refunds are only available where required by applicable law or platform policy.
+
+---
+
+## 8. Advertisements and Third-Party Services
+
+The application may display advertisements and use third-party services including, but not limited to:
+
+* Google Play Services
+* Google AdMob
+* Firebase
+* Weather API providers
+
+These services may collect limited technical or device-related information according to their own privacy policies.
+
+We are not responsible for third-party service interruptions or failures.
+
+---
+
+## 9. Service Availability
+
+We reserve the right to:
+
+* modify features,
+* remove content,
+* suspend services,
+* change pricing,
+* or discontinue the application
+
+at any time without prior notice.
+
+We do not guarantee uninterrupted availability of the service.
+
+---
+
+## 10. Limitation of Liability
+
+The application is provided on an "as is" and "as available" basis.
+
+Weather forecasts, temperatures, rain probabilities, alerts, and related information may be delayed, inaccurate, incomplete, or unavailable.
+
+Users agree that the developer shall not be responsible or liable for:
+
+* inaccurate weather forecasts,
+* incorrect weather information,
+* missed weather events,
+* travel delays,
+* business losses,
+* personal losses,
+* outdoor activity issues,
+* device malfunctions,
+* data loss,
+* or any damages resulting from reliance on the application.
+
+To the maximum extent permitted by law, the developer is not liable for any direct, indirect, incidental, special, or consequential damages arising from the use of the application.
+
+---
+
+## 11. Changes to These Terms
+
+We may update these Terms of Service from time to time.
+
+Continued use of the application after updates constitutes acceptance of the revised Terms.
+
+---
+
+## 12. Contact
+
+If you have questions regarding these Terms, you may contact:
+
+
+Email: [teamtaiwanwinwin@gmail.com](mailto:teamtaiwanwinwin@gmail.com)
