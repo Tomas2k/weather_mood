@@ -1,0 +1,192 @@
+# Weather Mood - Termini di Servizio
+
+Ultimo aggiornamento: 12 maggio 2026
+
+## 1. Accettazione dei Termini
+
+Scaricando, installando o utilizzando Weather Mood, accetti i presenti Termini di Servizio.
+
+Se non accetti questi Termini, ti invitiamo a non utilizzare l'applicazione.
+
+---
+
+## 2. Scopo dell'Applicazione
+
+Weather Mood è un'applicazione di intrattenimento e informazioni meteorologiche che combina previsioni del tempo con personaggi virtuali generati dall'intelligenza artificiale, animazioni ed esperienze multimediali.
+
+L'applicazione è fornita esclusivamente per uso personale e non commerciale.
+
+---
+
+## 3. Esclusione di responsabilità sulle informazioni meteorologiche
+
+I dati meteorologici visualizzati nell'applicazione sono forniti da fornitori terzi di servizi meteorologici.
+
+Non garantiamo che:
+
+* le informazioni meteorologiche siano sempre accurate,
+* le previsioni siano complete,
+* gli avvisi meteorologici siano tempestivi,
+* o che i servizi siano continuamente disponibili.
+
+Gli utenti non devono fare affidamento esclusivamente sull'applicazione per decisioni relative alla sicurezza, emergenze, pianificazione di viaggi, attività all'aperto o gestione di disastri.
+
+Quando necessario, gli utenti dovrebbero verificare autonomamente le informazioni meteorologiche importanti attraverso le autorità meteorologiche ufficiali.
+
+---
+
+## 4. Personaggi e contenuti generati dall'IA
+
+Tutti i personaggi virtuali, le animazioni, i video, le voci, i ritratti e i contenuti visivi presenti nell'applicazione sono generati utilizzando Grok AI o strumenti assistiti dall'intelligenza artificiale.
+
+### Personaggi fittizi
+
+Tutti i personaggi presenti nell'applicazione sono personaggi fittizi generati dall'IA e non rappresentano persone reali.
+
+Qualsiasi somiglianza con persone realmente esistenti è puramente casuale.
+
+### Esclusione di responsabilità sui contenuti
+
+Sebbene lo sviluppatore esamini e gestisca i contenuti forniti nell'applicazione, i contenuti generati dall'IA possono contenere risultati inattesi, inesatti o imperfetti.
+
+Se ritieni che un contenuto sia inappropriato, violi dei diritti o presenti problemi, ti invitiamo a contattarci e lo esamineremo.
+
+### Proprietà intellettuale
+
+Tutti i contenuti generati dall'IA e le risorse dell'applicazione sono di proprietà dello sviluppatore o concessi in licenza allo stesso.
+
+### Restrizioni
+
+Non è consentito:
+
+* estrarre risorse dall'applicazione,
+* ridistribuire video o altri contenuti multimediali,
+* rivendere contenuti,
+* utilizzare contenuti per scopi commerciali,
+* o effettuare attività di reverse engineering sull'applicazione.
+
+---
+
+## 5. Servizi di localizzazione
+
+L'applicazione può richiedere l'accesso alla posizione del dispositivo per fornire previsioni meteorologiche locali.
+
+L'utilizzo della posizione è limitato alle funzionalità legate alle informazioni meteorologiche.
+
+Se l'autorizzazione alla posizione viene negata:
+
+* alcune funzionalità potrebbero non funzionare correttamente,
+* e i risultati meteorologici potrebbero essere meno accurati.
+
+---
+
+## 6. Accesso anonimo e dati locali
+
+L'applicazione può utilizzare l'autenticazione anonima e l'archiviazione locale sul dispositivo.
+
+Poiché gli account anonimi sono associati al dispositivo:
+
+* la disinstallazione dell'applicazione,
+* la cancellazione dei dati dell'app,
+* il cambio di dispositivo,
+* o il ripristino del dispositivo
+
+possono comportare la perdita permanente di:
+
+* città salvate,
+* personaggi sbloccati,
+* impostazioni,
+* preferenze,
+* o altri dati correlati all'applicazione.
+
+Lo sviluppatore non è responsabile di tali perdite di dati.
+
+---
+
+## 7. Acquisti in-app e contenuti virtuali
+
+L'applicazione può offrire personaggi premium, contenuti virtuali o altri acquisti digitali tramite Google Play.
+
+### Nessun valore monetario
+
+Gli oggetti virtuali e gli elementi sbloccabili:
+
+* non hanno alcun valore economico reale,
+* non possono essere convertiti in denaro,
+* e non sono trasferibili.
+
+### Rimborsi
+
+Tutti gli acquisti vengono elaborati tramite Google Play e sono soggetti alle relative politiche.
+
+I rimborsi sono disponibili solo nei casi previsti dalla legge applicabile o dalle politiche della piattaforma.
+
+---
+
+## 8. Pubblicità e servizi di terze parti
+
+L'applicazione può mostrare pubblicità e utilizzare servizi di terze parti, inclusi ma non limitati a:
+
+* Google Play Services
+* Google AdMob
+* Firebase
+* Fornitori di API meteorologiche
+
+Tali servizi possono raccogliere informazioni tecniche o relative al dispositivo secondo le rispettive informative sulla privacy.
+
+Non siamo responsabili per eventuali interruzioni o malfunzionamenti dei servizi di terze parti.
+
+---
+
+## 9. Disponibilità del servizio
+
+Ci riserviamo il diritto di:
+
+* modificare funzionalità,
+* rimuovere contenuti,
+* sospendere servizi,
+* modificare i prezzi,
+* o interrompere l'applicazione
+
+in qualsiasi momento e senza preavviso.
+
+Non garantiamo la disponibilità continua e ininterrotta del servizio.
+
+---
+
+## 10. Limitazione di responsabilità
+
+L'applicazione viene fornita "così com'è" ("as is") e "secondo disponibilità" ("as available").
+
+Previsioni meteorologiche, temperature, probabilità di pioggia, avvisi e informazioni correlate possono essere ritardati, inesatti, incompleti o non disponibili.
+
+Gli utenti accettano che lo sviluppatore non sia responsabile per:
+
+* previsioni meteorologiche inesatte,
+* informazioni meteorologiche errate,
+* eventi meteorologici non segnalati,
+* ritardi nei viaggi,
+* perdite commerciali,
+* perdite personali,
+* problemi durante attività all'aperto,
+* malfunzionamenti dei dispositivi,
+* perdita di dati,
+* o qualsiasi danno derivante dall'utilizzo dell'applicazione.
+
+Nella misura massima consentita dalla legge, lo sviluppatore non sarà responsabile per danni diretti, indiretti, incidentali, speciali o consequenziali derivanti dall'utilizzo dell'applicazione.
+
+---
+
+## 11. Modifiche ai presenti Termini
+
+Potremmo aggiornare periodicamente i presenti Termini di Servizio.
+
+L'uso continuato dell'applicazione dopo eventuali aggiornamenti costituisce accettazione dei Termini revisionati.
+
+---
+
+## 12. Contatti
+
+Se hai domande riguardanti i presenti Termini di Servizio, puoi contattarci:
+
+E-mail: [teamtaiwanwinwin@gmail.com](mailto:teamtaiwanwinwin@gmail.com)

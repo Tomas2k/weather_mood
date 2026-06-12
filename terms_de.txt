@@ -1,0 +1,192 @@
+# Weather Mood - Nutzungsbedingungen
+
+Zuletzt aktualisiert: 12. Mai 2026
+
+## 1. Zustimmung zu den Bedingungen
+
+Durch das Herunterladen, Installieren oder Nutzen von Weather Mood stimmen Sie diesen Nutzungsbedingungen zu.
+
+Wenn Sie diesen Bedingungen nicht zustimmen, nutzen Sie die Anwendung bitte nicht.
+
+---
+
+## 2. Zweck der Anwendung
+
+Weather Mood ist eine Unterhaltungs- und Wetterinformationsanwendung, die Wettervorhersagen mit KI-generierten virtuellen Charakteren, Animationen und Multimedia-Erlebnissen kombiniert.
+
+Die Anwendung wird ausschließlich für den persönlichen und nicht-kommerziellen Gebrauch bereitgestellt.
+
+---
+
+## 3. Haftungsausschluss für Wetterinformationen
+
+Die in der Anwendung angezeigten Wetterdaten werden von Wetterdienstanbietern Dritter bereitgestellt.
+
+Wir übernehmen keine Gewähr dafür, dass:
+
+* Wetterinformationen stets korrekt sind,
+* Vorhersagen vollständig sind,
+* Wetterwarnungen rechtzeitig erfolgen,
+* oder die Dienste jederzeit verfügbar sind.
+
+Benutzer sollten sich bei sicherheitskritischen Entscheidungen, Notfällen, Reiseplanungen, Outdoor-Aktivitäten oder Katastrophenschutzmaßnahmen nicht ausschließlich auf die Anwendung verlassen.
+
+Wichtige Wetterinformationen sollten bei Bedarf zusätzlich bei offiziellen Wetterbehörden überprüft werden.
+
+---
+
+## 4. KI-generierte Charaktere und Medien
+
+Alle virtuellen Charaktere, Animationen, Videos, Stimmen, Porträts und visuellen Inhalte innerhalb der Anwendung werden mit Grok AI oder KI-gestützten Tools erstellt.
+
+### Fiktive Charaktere
+
+Alle in der Anwendung dargestellten Charaktere sind fiktive, KI-generierte Figuren und stellen keine realen Personen dar.
+
+Jegliche Ähnlichkeit mit tatsächlichen Personen ist rein zufällig.
+
+### Haftungsausschluss für Inhalte
+
+Obwohl die Inhalte von den Entwicklern überprüft und verwaltet werden, können KI-generierte Medien unerwartete, ungenaue oder unvollständige Ergebnisse enthalten.
+
+Falls Sie der Ansicht sind, dass Inhalte unangemessen, rechtsverletzend oder problematisch sind, kontaktieren Sie uns bitte. Wir werden die Inhalte prüfen.
+
+### Geistiges Eigentum
+
+Alle KI-generierten Medien und Inhalte der Anwendung sind Eigentum des Entwicklers oder werden von diesem rechtmäßig lizenziert.
+
+### Einschränkungen
+
+Sie dürfen nicht:
+
+* Inhalte oder Ressourcen der Anwendung extrahieren,
+* Videos oder Medien weiterverbreiten,
+* Inhalte weiterverkaufen,
+* Inhalte für kommerzielle Zwecke verwenden,
+* oder die Anwendung zurückentwickeln (Reverse Engineering).
+
+---
+
+## 5. Standortdienste
+
+Die Anwendung kann Zugriff auf Ihren Standort anfordern, um lokale Wettervorhersagen bereitzustellen.
+
+Die Nutzung des Standorts beschränkt sich auf wetterbezogene Funktionen.
+
+Wenn die Standortberechtigung verweigert wird:
+
+* funktionieren einige Funktionen möglicherweise nicht ordnungsgemäß,
+* und Wetterergebnisse können weniger genau sein.
+
+---
+
+## 6. Anonyme Anmeldung und lokale Daten
+
+Die Anwendung kann anonyme Authentifizierung und lokale Datenspeicherung auf dem Gerät verwenden.
+
+Da anonyme Konten gerätegebunden sind, können folgende Aktionen dauerhaft zum Verlust von Daten führen:
+
+* Deinstallation der Anwendung,
+* Löschen der App-Daten,
+* Wechsel des Geräts,
+* oder Zurücksetzen des Geräts.
+
+Dies kann zum Verlust von:
+
+* gespeicherten Städten,
+* freigeschalteten Charakteren,
+* Einstellungen,
+* Präferenzen,
+* oder anderen anwendungsbezogenen Daten führen.
+
+Der Entwickler übernimmt keine Verantwortung für solche Datenverluste.
+
+---
+
+## 7. In-App-Käufe und virtuelle Inhalte
+
+Die Anwendung kann Premium-Charaktere, virtuelle Inhalte oder andere digitale Käufe über Google Play anbieten.
+
+### Kein Geldwert
+
+Virtuelle Inhalte und Freischaltungen:
+
+* besitzen keinen realen Geldwert,
+* können nicht gegen Bargeld eingetauscht werden,
+* und sind nicht übertragbar.
+
+### Rückerstattungen
+
+Alle Käufe werden über Google Play abgewickelt und unterliegen den Richtlinien von Google Play.
+
+Rückerstattungen sind nur möglich, soweit dies gesetzlich vorgeschrieben oder durch Plattformrichtlinien vorgesehen ist.
+
+---
+
+## 8. Werbung und Dienste Dritter
+
+Die Anwendung kann Werbung anzeigen und Dienste Dritter nutzen, einschließlich, aber nicht beschränkt auf:
+
+* Google Play Services
+* Google AdMob
+* Firebase
+* Wetter-API-Anbieter
+
+Diese Dienste können gemäß ihren eigenen Datenschutzrichtlinien begrenzte technische oder gerätebezogene Informationen erfassen.
+
+Wir übernehmen keine Verantwortung für Unterbrechungen oder Ausfälle von Diensten Dritter.
+
+---
+
+## 9. Verfügbarkeit des Dienstes
+
+Wir behalten uns das Recht vor:
+
+* Funktionen zu ändern,
+* Inhalte zu entfernen,
+* Dienste auszusetzen,
+* Preise anzupassen,
+* oder die Anwendung einzustellen,
+
+und zwar jederzeit und ohne vorherige Ankündigung.
+
+Wir garantieren keine ununterbrochene Verfügbarkeit des Dienstes.
+
+---
+
+## 10. Haftungsbeschränkung
+
+Die Anwendung wird „wie besehen“ („as is“) und „wie verfügbar“ („as available“) bereitgestellt.
+
+Wettervorhersagen, Temperaturen, Niederschlagswahrscheinlichkeiten, Warnungen und andere Informationen können verspätet, ungenau, unvollständig oder nicht verfügbar sein.
+
+Benutzer stimmen zu, dass der Entwickler nicht verantwortlich oder haftbar ist für:
+
+* ungenaue Wettervorhersagen,
+* fehlerhafte Wetterinformationen,
+* verpasste Wetterereignisse,
+* Reiseverzögerungen,
+* geschäftliche Verluste,
+* persönliche Verluste,
+* Probleme bei Outdoor-Aktivitäten,
+* Fehlfunktionen von Geräten,
+* Datenverluste,
+* oder sonstige Schäden, die durch die Nutzung der Anwendung entstehen.
+
+Soweit gesetzlich zulässig, haftet der Entwickler nicht für direkte, indirekte, zufällige, besondere oder Folgeschäden, die aus der Nutzung der Anwendung entstehen.
+
+---
+
+## 11. Änderungen dieser Nutzungsbedingungen
+
+Wir können diese Nutzungsbedingungen von Zeit zu Zeit aktualisieren.
+
+Die fortgesetzte Nutzung der Anwendung nach einer Aktualisierung gilt als Zustimmung zu den überarbeiteten Bedingungen.
+
+---
+
+## 12. Kontakt
+
+Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, können Sie uns kontaktieren:
+
+E-Mail: [teamtaiwanwinwin@gmail.com](mailto:teamtaiwanwinwin@gmail.com)

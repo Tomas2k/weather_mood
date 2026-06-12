@@ -1,0 +1,192 @@
+# Weather Mood - Conditions d'utilisation
+
+Dernière mise à jour : 12 mai 2026
+
+## 1. Acceptation des conditions
+
+En téléchargeant, installant ou utilisant Weather Mood, vous acceptez les présentes Conditions d'utilisation.
+
+Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser l'application.
+
+---
+
+## 2. Objet de l'application
+
+Weather Mood est une application de divertissement et d'information météorologique qui combine des prévisions météo avec des personnages virtuels générés par l'IA, des animations et des expériences multimédias.
+
+L'application est fournie uniquement pour un usage personnel et non commercial.
+
+---
+
+## 3. Clause de non-responsabilité concernant les informations météorologiques
+
+Les données météorologiques affichées dans l'application sont fournies par des prestataires tiers de services météorologiques.
+
+Nous ne garantissons pas que :
+
+* les informations météorologiques soient toujours exactes,
+* les prévisions soient complètes,
+* les alertes météorologiques soient diffusées en temps opportun,
+* ou que les services soient disponibles en permanence.
+
+Les utilisateurs ne doivent pas se fier exclusivement à l'application pour des décisions liées à la sécurité, aux situations d'urgence, à la planification de voyages, aux activités de plein air ou à la gestion de catastrophes.
+
+Lorsque cela est nécessaire, les utilisateurs doivent vérifier les informations météorologiques importantes auprès des autorités météorologiques officielles.
+
+---
+
+## 4. Personnages et contenus générés par l'IA
+
+Tous les personnages virtuels, animations, vidéos, voix, portraits et contenus visuels présents dans l'application sont générés à l'aide de Grok AI ou d'outils assistés par l'intelligence artificielle.
+
+### Personnages fictifs
+
+Tous les personnages apparaissant dans l'application sont des personnages fictifs générés par l'IA et ne représentent aucune personne réelle.
+
+Toute ressemblance avec des personnes existantes est purement fortuite.
+
+### Clause de non-responsabilité concernant le contenu
+
+Bien que le développeur examine et gère le contenu fourni dans l'application, les médias générés par l'IA peuvent contenir des résultats inattendus, inexacts ou imparfaits.
+
+Si vous estimez qu'un contenu est inapproprié, enfreint des droits ou présente un problème, veuillez nous contacter. Nous examinerons le contenu concerné.
+
+### Propriété intellectuelle
+
+Tous les contenus générés par l'IA et les ressources de l'application sont la propriété du développeur ou sont utilisés sous licence.
+
+### Restrictions
+
+Vous ne pouvez pas :
+
+* extraire les ressources de l'application,
+* redistribuer des vidéos ou d'autres médias,
+* revendre du contenu,
+* utiliser le contenu à des fins commerciales,
+* ou effectuer de l'ingénierie inverse sur l'application.
+
+---
+
+## 5. Services de localisation
+
+L'application peut demander l'accès à votre localisation afin de fournir des prévisions météorologiques locales.
+
+L'utilisation de la localisation est limitée aux fonctionnalités liées à la météo.
+
+Si l'autorisation de localisation est refusée :
+
+* certaines fonctionnalités peuvent ne pas fonctionner correctement,
+* et les résultats météorologiques peuvent être moins précis.
+
+---
+
+## 6. Connexion anonyme et données locales
+
+L'application peut utiliser une authentification anonyme ainsi qu'un stockage local sur l'appareil.
+
+Étant donné que les comptes anonymes sont liés à l'appareil utilisé :
+
+* la désinstallation de l'application,
+* l'effacement des données de l'application,
+* le changement d'appareil,
+* ou la réinitialisation de l'appareil
+
+peuvent entraîner la perte définitive :
+
+* des villes enregistrées,
+* des personnages débloqués,
+* des paramètres,
+* des préférences,
+* ou d'autres données liées à l'application.
+
+Le développeur ne saurait être tenu responsable de telles pertes de données.
+
+---
+
+## 7. Achats intégrés et contenu virtuel
+
+L'application peut proposer des personnages premium, du contenu virtuel ou d'autres achats numériques via Google Play.
+
+### Aucune valeur monétaire
+
+Les objets virtuels et les déblocages :
+
+* n'ont aucune valeur monétaire réelle,
+* ne peuvent pas être échangés contre de l'argent,
+* et ne sont pas transférables.
+
+### Remboursements
+
+Tous les achats sont traités par Google Play et sont soumis aux politiques de Google Play.
+
+Les remboursements ne sont disponibles que lorsque la loi applicable ou les politiques de la plateforme l'exigent.
+
+---
+
+## 8. Publicités et services tiers
+
+L'application peut afficher des publicités et utiliser des services tiers, notamment :
+
+* Google Play Services
+* Google AdMob
+* Firebase
+* Fournisseurs d'API météorologiques
+
+Ces services peuvent collecter des informations techniques ou relatives à l'appareil conformément à leurs propres politiques de confidentialité.
+
+Nous ne sommes pas responsables des interruptions ou défaillances des services tiers.
+
+---
+
+## 9. Disponibilité du service
+
+Nous nous réservons le droit de :
+
+* modifier des fonctionnalités,
+* supprimer du contenu,
+* suspendre des services,
+* modifier les tarifs,
+* ou interrompre l'application
+
+à tout moment et sans préavis.
+
+Nous ne garantissons pas une disponibilité ininterrompue du service.
+
+---
+
+## 10. Limitation de responsabilité
+
+L'application est fournie « en l'état » et « selon sa disponibilité ».
+
+Les prévisions météorologiques, températures, probabilités de pluie, alertes et informations associées peuvent être retardées, inexactes, incomplètes ou indisponibles.
+
+Les utilisateurs reconnaissent que le développeur ne pourra être tenu responsable de :
+
+* prévisions météorologiques inexactes,
+* informations météorologiques erronées,
+* événements météorologiques manqués,
+* retards de voyage,
+* pertes commerciales,
+* pertes personnelles,
+* problèmes liés aux activités de plein air,
+* dysfonctionnements d'appareils,
+* pertes de données,
+* ou tout dommage résultant de l'utilisation de l'application.
+
+Dans la mesure maximale autorisée par la loi, le développeur ne pourra être tenu responsable de dommages directs, indirects, accessoires, spéciaux ou consécutifs résultant de l'utilisation de l'application.
+
+---
+
+## 11. Modifications des présentes conditions
+
+Nous pouvons mettre à jour les présentes Conditions d'utilisation de temps à autre.
+
+La poursuite de l'utilisation de l'application après une mise à jour constitue une acceptation des conditions révisées.
+
+---
+
+## 12. Contact
+
+Si vous avez des questions concernant les présentes Conditions d'utilisation, vous pouvez nous contacter :
+
+E-mail : [teamtaiwanwinwin@gmail.com](mailto:teamtaiwanwinwin@gmail.com)
