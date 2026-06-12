@@ -1,0 +1,132 @@
+# Weather Mood - Datenschutzerklärung
+
+Zuletzt aktualisiert: 12. Mai 2026
+
+## 1. Einleitung
+
+Willkommen bei Weather Mood.
+
+Wir respektieren Ihre Privatsphäre und verpflichten uns, Ihre Informationen zu schützen. Diese Datenschutzerklärung erläutert, wie Informationen erfasst, verwendet und gespeichert werden können, wenn Sie die mobile Anwendung Weather Mood nutzen.
+
+Durch die Nutzung der Anwendung stimmen Sie den in dieser Datenschutzerklärung beschriebenen Praktiken zu.
+
+---
+
+## 2. Erhebung und Verwendung von Informationen
+
+Um Wetterdienste, KI-Charaktererlebnisse, gespeicherte Einstellungen und die Funktionalität der App bereitzustellen, können wir die folgenden Informationen erfassen:
+
+### Standortinformationen
+
+Die App kann auf den Standort Ihres Geräts zugreifen, um lokale Wettervorhersagen und damit verbundene Wetterinformationen bereitzustellen.
+
+Der Zugriff auf den Standort ist optional. Einige Funktionen funktionieren jedoch möglicherweise nicht korrekt, wenn die Berechtigung verweigert wird.
+
+### Benutzerkennungen
+
+Wir können anonyme Kennungen, Gerätekennungen oder von Firebase generierte Kennungen erfassen, um:
+
+* App-Einstellungen zu speichern,
+* freigeschaltete Charaktere zu verwalten,
+* gespeicherte Städte zu speichern,
+* anonyme Anmeldungen zu unterstützen,
+* und die Funktionalität der App über mehrere Sitzungen hinweg aufrechtzuerhalten.
+
+### Geräteinformationen
+
+Wir können nicht personenbezogene Geräteinformationen erfassen, wie zum Beispiel:
+
+* Gerätemodell,
+* Betriebssystemversion,
+* App-Version,
+* Absturzprotokolle,
+* und Leistungsdaten,
+
+um die Stabilität der Anwendung und die Benutzererfahrung zu verbessern.
+
+### Werbe-ID
+
+Die App kann die Google Advertising ID für Werbung, Analysen und AdMob-Dienste verwenden.
+
+### Kaufinformationen
+
+Wenn Sie In-App-Käufe tätigen, können kaufbezogene Informationen über Google Play-Dienste verarbeitet werden, um gekaufte Inhalte zu validieren und wiederherzustellen.
+
+Wir erfassen oder speichern Ihre Zahlungskarteninformationen nicht direkt.
+
+---
+
+## 3. KI-generierte Inhalte (Grok AI)
+
+### Inhalte von KI-Charakteren
+
+Virtuelle Charaktere, Animationen, Videos, Stimmen, Porträts und visuelle Inhalte innerhalb der App werden mit Grok AI oder KI-gestützten Tools generiert.
+
+### Fiktive Inhalte
+
+Alle KI-generierten Charaktere sind fiktiv und stellen keine realen Personen dar.
+
+Jegliche Ähnlichkeit mit tatsächlichen Personen ist rein zufällig.
+
+### Eigentumsrechte
+
+Alle KI-generierten Inhalte innerhalb der Anwendung werden vom Entwickler erstellt oder lizenziert.
+
+### Einhaltung von Richtlinien
+
+Wir bemühen uns sicherzustellen, dass alle KI-generierten Inhalte den geltenden Plattformrichtlinien und Inhaltsvorgaben entsprechen.
+
+Die KI-generierten Inhalte dieser Anwendung werden mit Grok AI oder KI-gestützten Tools erstellt.
+
+Obwohl die Inhalte vom Entwickler überprüft und verwaltet werden, können KI-generierte Medien unerwartete oder unvollkommene Ergebnisse enthalten.
+
+Wenn Sie der Meinung sind, dass Inhalte unangemessen, rechtsverletzend oder problematisch sind, kontaktieren Sie uns bitte. Wir werden die Angelegenheit prüfen.
+
+---
+
+## 4. Datenspeicherung und Sicherheit
+
+Wir ergreifen angemessene Maßnahmen, um Ihre Informationen zu schützen und die Sicherheit der Anwendung zu verbessern.
+
+Daten können, sofern unterstützt, über sichere verschlüsselte Verbindungen übertragen werden.
+
+Keine Methode der elektronischen Speicherung oder Übertragung über das Internet ist jedoch vollständig sicher, und wir können keine absolute Sicherheit garantieren.
+
+---
+
+## 5. Datenlöschung
+
+Benutzer können die Löschung ihrer zugehörigen App-Daten beantragen, indem sie uns per E-Mail kontaktieren.
+
+Da einige Funktionen anonyme Authentifizierung und lokale Gerätespeicherung verwenden, kann das Deinstallieren der Anwendung oder das Löschen der App-Daten ebenfalls dazu führen, dass lokal gespeicherte Informationen dauerhaft entfernt werden.
+
+---
+
+## 6. Dienste von Drittanbietern
+
+Die Anwendung kann Dienste von Drittanbietern nutzen, die Informationen gemäß ihren eigenen Datenschutzrichtlinien erfassen können, einschließlich, aber nicht beschränkt auf:
+
+* Google Play Services
+* Firebase (Google)
+* Google AdMob
+* Wetter-API-Anbieter
+
+Diese Dienste können technische, analytische, werbebezogene oder gerätebezogene Informationen erfassen.
+
+---
+
+## 7. Änderungen dieser Datenschutzerklärung
+
+Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren.
+
+Änderungen werden durch die Aktualisierung des oben angegebenen Datums „Zuletzt aktualisiert“ kenntlich gemacht.
+
+Die fortgesetzte Nutzung der Anwendung nach solchen Änderungen gilt als Zustimmung zur aktualisierten Datenschutzerklärung.
+
+---
+
+## 8. Kontakt
+
+Wenn Sie Fragen zu dieser Datenschutzerklärung oder Anfragen zur Datenlöschung haben, kontaktieren Sie uns bitte:
+
+E-Mail: [teamtaiwanwinwin@gmail.com](mailto:teamtaiwanwinwin@gmail.com)

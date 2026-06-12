@@ -1,0 +1,132 @@
+# Weather Mood - Politique de confidentialité
+
+Dernière mise à jour : 12 mai 2026
+
+## 1. Introduction
+
+Bienvenue sur Weather Mood.
+
+Nous respectons votre vie privée et nous engageons à protéger vos informations. Cette Politique de confidentialité explique comment les informations peuvent être collectées, utilisées et conservées lorsque vous utilisez l'application mobile Weather Mood.
+
+En utilisant l'application, vous acceptez les pratiques décrites dans cette Politique de confidentialité.
+
+---
+
+## 2. Collecte et utilisation des informations
+
+Afin de fournir des services météorologiques, des expériences avec des personnages IA, des paramètres enregistrés et les fonctionnalités de l'application, nous pouvons collecter les informations suivantes :
+
+### Informations de localisation
+
+L'application peut accéder à la localisation de votre appareil afin de fournir des prévisions météorologiques locales et des informations météorologiques associées.
+
+L'accès à la localisation est facultatif. Cependant, certaines fonctionnalités peuvent ne pas fonctionner correctement si cette autorisation est refusée.
+
+### Identifiants utilisateur
+
+Nous pouvons collecter des identifiants anonymes, des identifiants d'appareil ou des identifiants générés par Firebase afin de :
+
+* enregistrer les préférences de l'application,
+* gérer les personnages débloqués,
+* enregistrer les villes sauvegardées,
+* prendre en charge la connexion anonyme,
+* et maintenir les fonctionnalités de l'application entre différentes sessions.
+
+### Informations sur l'appareil
+
+Nous pouvons collecter des informations non identifiantes sur l'appareil, telles que :
+
+* le modèle de l'appareil,
+* la version du système d'exploitation,
+* la version de l'application,
+* les journaux de plantage,
+* et les données de performance,
+
+afin d'améliorer la stabilité de l'application et l'expérience utilisateur.
+
+### Identifiant publicitaire
+
+L'application peut utiliser l'identifiant publicitaire Google (Google Advertising ID) à des fins publicitaires, analytiques et pour les services AdMob.
+
+### Informations relatives aux achats
+
+Si vous effectuez des achats intégrés, les informations relatives aux achats peuvent être traitées via les services Google Play afin de valider et de restaurer les contenus achetés.
+
+Nous ne collectons ni ne stockons directement les informations de votre carte bancaire.
+
+---
+
+## 3. Contenu généré par l'IA (Grok AI)
+
+### Contenu des personnages IA
+
+Les personnages virtuels, animations, vidéos, voix, portraits et contenus visuels présents dans l'application sont générés à l'aide de Grok AI ou d'outils assistés par l'intelligence artificielle.
+
+### Contenu fictif
+
+Tous les personnages générés par l'IA sont fictifs et ne représentent aucune personne réelle.
+
+Toute ressemblance avec des personnes existantes est purement fortuite.
+
+### Propriété
+
+L'ensemble du contenu généré par l'IA dans l'application est créé ou utilisé sous licence par le développeur.
+
+### Conformité
+
+Nous nous efforçons de garantir que tout le contenu généré par l'IA respecte les politiques des plateformes applicables ainsi que les directives relatives au contenu.
+
+Le contenu généré par l'IA dans cette application est créé à l'aide de Grok AI ou d'outils assistés par l'intelligence artificielle.
+
+Bien que le développeur examine et gère ce contenu, les médias générés par l'IA peuvent contenir des résultats inattendus ou imparfaits.
+
+Si vous estimez qu'un contenu est inapproprié, porte atteinte à des droits ou présente un problème quelconque, veuillez nous contacter afin que nous puissions l'examiner.
+
+---
+
+## 4. Stockage et sécurité des données
+
+Nous prenons des mesures raisonnables afin de protéger vos informations et d'améliorer la sécurité de l'application.
+
+Les données peuvent être transmises via des connexions sécurisées et chiffrées lorsque cela est pris en charge.
+
+Cependant, aucune méthode de stockage électronique ou de transmission sur Internet n'est totalement sécurisée, et nous ne pouvons garantir une sécurité absolue.
+
+---
+
+## 5. Suppression des données
+
+Les utilisateurs peuvent demander la suppression des données associées à leur utilisation de l'application en nous contactant par e-mail.
+
+Étant donné que certaines fonctionnalités utilisent une authentification anonyme et un stockage local sur l'appareil, la désinstallation de l'application ou l'effacement de ses données peut également supprimer définitivement les informations stockées localement.
+
+---
+
+## 6. Services tiers
+
+L'application peut utiliser des services tiers susceptibles de collecter des informations conformément à leurs propres politiques de confidentialité, notamment :
+
+* Google Play Services
+* Firebase (Google)
+* Google AdMob
+* Fournisseurs d'API météorologiques
+
+Ces services peuvent collecter des informations techniques, analytiques, publicitaires ou liées à l'appareil.
+
+---
+
+## 7. Modifications de cette Politique de confidentialité
+
+Nous pouvons mettre à jour cette Politique de confidentialité de temps à autre.
+
+Toute modification sera indiquée par la mise à jour de la date « Dernière mise à jour » figurant ci-dessus.
+
+La poursuite de l'utilisation de l'application après ces modifications constitue une acceptation de la Politique de confidentialité mise à jour.
+
+---
+
+## 8. Nous contacter
+
+Si vous avez des questions concernant cette Politique de confidentialité ou une demande de suppression de données, veuillez nous contacter :
+
+E-mail : [teamtaiwanwinwin@gmail.com](mailto:teamtaiwanwinwin@gmail.com)

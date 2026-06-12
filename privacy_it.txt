@@ -1,0 +1,132 @@
+# Weather Mood - Informativa sulla Privacy
+
+Ultimo aggiornamento: 12 maggio 2026
+
+## 1. Introduzione
+
+Benvenuto in Weather Mood.
+
+Rispettiamo la tua privacy e ci impegniamo a proteggere le tue informazioni. La presente Informativa sulla Privacy spiega come le informazioni possono essere raccolte, utilizzate e conservate quando utilizzi l'applicazione mobile Weather Mood.
+
+Utilizzando l'applicazione, accetti le pratiche descritte nella presente Informativa sulla Privacy.
+
+---
+
+## 2. Raccolta e utilizzo delle informazioni
+
+Per fornire servizi meteorologici, esperienze con personaggi IA, impostazioni salvate e funzionalità dell'applicazione, possiamo raccogliere le seguenti informazioni:
+
+### Informazioni sulla posizione
+
+L'applicazione può accedere alla posizione del tuo dispositivo per fornire previsioni meteorologiche locali e informazioni meteorologiche correlate.
+
+L'accesso alla posizione è facoltativo. Tuttavia, alcune funzionalità potrebbero non funzionare correttamente se il permesso viene negato.
+
+### Identificatori utente
+
+Possiamo raccogliere identificatori anonimi, identificatori del dispositivo o identificatori generati da Firebase per:
+
+* salvare le preferenze dell'applicazione,
+* gestire i personaggi sbloccati,
+* memorizzare le città salvate,
+* supportare l'accesso anonimo,
+* e mantenere la funzionalità dell'applicazione tra diverse sessioni.
+
+### Informazioni sul dispositivo
+
+Possiamo raccogliere informazioni non identificative sul dispositivo, quali:
+
+* modello del dispositivo,
+* versione del sistema operativo,
+* versione dell'applicazione,
+* registri di arresto anomalo (crash log),
+* e dati sulle prestazioni,
+
+al fine di migliorare la stabilità dell'applicazione e l'esperienza dell'utente.
+
+### ID pubblicitario
+
+L'applicazione può utilizzare il Google Advertising ID per finalità pubblicitarie, analitiche e per i servizi AdMob.
+
+### Informazioni sugli acquisti
+
+Se effettui acquisti in-app, le informazioni relative agli acquisti possono essere elaborate tramite i servizi Google Play per convalidare e ripristinare i contenuti acquistati.
+
+Non raccogliamo né memorizziamo direttamente le informazioni della tua carta di pagamento.
+
+---
+
+## 3. Contenuti generati dall'IA (Grok AI)
+
+### Contenuti dei personaggi IA
+
+Personaggi virtuali, animazioni, video, voci, ritratti e contenuti visivi presenti nell'applicazione sono generati utilizzando Grok AI o strumenti assistiti dall'intelligenza artificiale.
+
+### Contenuti fittizi
+
+Tutti i personaggi generati dall'IA sono fittizi e non rappresentano persone reali.
+
+Qualsiasi somiglianza con persone realmente esistenti è puramente casuale.
+
+### Proprietà
+
+Tutti i contenuti generati dall'IA all'interno dell'applicazione sono creati o concessi in licenza allo sviluppatore.
+
+### Conformità
+
+Ci impegniamo a garantire che tutti i contenuti generati dall'IA siano conformi alle politiche delle piattaforme applicabili e alle linee guida sui contenuti.
+
+I contenuti generati dall'IA in questa applicazione sono creati utilizzando Grok AI o strumenti assistiti dall'intelligenza artificiale.
+
+Sebbene lo sviluppatore esamini e gestisca i contenuti, i media generati dall'IA possono contenere risultati imprevisti o imperfetti.
+
+Se ritieni che qualsiasi contenuto sia inappropriato, violi dei diritti o presenti problemi, ti invitiamo a contattarci e lo esamineremo.
+
+---
+
+## 4. Conservazione e sicurezza dei dati
+
+Adottiamo misure ragionevoli per proteggere le tue informazioni e migliorare la sicurezza dell'applicazione.
+
+I dati possono essere trasmessi tramite connessioni sicure e crittografate ove supportato.
+
+Tuttavia, nessun metodo di archiviazione elettronica o trasmissione tramite Internet è completamente sicuro e non possiamo garantire una sicurezza assoluta.
+
+---
+
+## 5. Eliminazione dei dati
+
+Gli utenti possono richiedere la cancellazione dei dati associati all'applicazione contattandoci tramite e-mail.
+
+Poiché alcune funzionalità utilizzano l'autenticazione anonima e l'archiviazione locale sul dispositivo, la disinstallazione dell'applicazione o la cancellazione dei dati dell'app potrebbero comportare la rimozione permanente delle informazioni archiviate localmente.
+
+---
+
+## 6. Servizi di terze parti
+
+L'applicazione può utilizzare servizi di terze parti che possono raccogliere informazioni in conformità alle rispettive informative sulla privacy, inclusi, a titolo esemplificativo ma non esaustivo:
+
+* Google Play Services
+* Firebase (Google)
+* Google AdMob
+* Fornitori di API meteorologiche
+
+Questi servizi possono raccogliere informazioni tecniche, analitiche, pubblicitarie o relative al dispositivo.
+
+---
+
+## 7. Modifiche alla presente Informativa sulla Privacy
+
+Potremmo aggiornare periodicamente la presente Informativa sulla Privacy.
+
+Eventuali aggiornamenti saranno indicati modificando la data "Ultimo aggiornamento" riportata sopra.
+
+L'utilizzo continuato dell'applicazione dopo tali modifiche costituisce accettazione dell'Informativa sulla Privacy aggiornata.
+
+---
+
+## 8. Contattaci
+
+Se hai domande riguardanti la presente Informativa sulla Privacy o richieste di cancellazione dei dati, contattaci:
+
+E-mail: [teamtaiwanwinwin@gmail.com](mailto:teamtaiwanwinwin@gmail.com)
